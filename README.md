@@ -13,7 +13,7 @@ This repository doesn't have any manga to prevent problems :)
 
 ###License
 
-APR is under the MIT License
+eManga is under the MIT License
 
 ###Instructions
 
