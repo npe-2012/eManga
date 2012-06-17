@@ -1,0 +1,3 @@
+This is a short description of a manga (naruto in this case)<br />
+To create a description file of a manga just create "description.txt" into the directory of the manga and it will be showed<br />
+You can use <strong>html</strong> on it
