@@ -71,10 +71,3 @@ After you upload to the server you will need to change some text in the .htacces
 In `RewriteCond` you will put the name of the path where you have the media files and the mangas
 
 In `RewriteRule` before /index.php/ you need to put the name of the directory/directories that you have the application in.
-
-### Donate
-
-Feel free to donate. it's hard to be a 16 years old unpaid PHP programmer :(
-
-[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=L5ZA6BHERQHZG&lc=UY&item_name=PHP&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
-
